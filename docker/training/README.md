@@ -43,7 +43,7 @@ create database wp CHARACTER SET utf8;
 grant all privileges on wp.* to wp@'%' identified by 'wp';
 flush privileges;
 ```
-
+<br><br>
 
 # 워드프레스 블로그 
 
